@@ -1,0 +1,2 @@
+# assets-rezjum
+static assets
